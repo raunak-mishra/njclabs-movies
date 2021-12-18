@@ -1,4 +1,4 @@
-Name : Rahul Kumar Anil Kumar Jha
+Name : Raunak Mishra
 
 Description about Project:
 
@@ -20,5 +20,5 @@ Database Creation:
   4. Fetch data : SELECT * FROM WHERE
 
 Screnshots Of The Project: 
-  ![Screenshot (4)](https://user-images.githubusercontent.com/65777075/143669873-7e773b45-2ed4-4b38-a736-867237704573.png)
-  ![Screenshot (5)](https://user-images.githubusercontent.com/65777075/143669879-6b58f826-b762-4dd0-92f6-e75f9779199c.png)
+  ![image](https://user-images.githubusercontent.com/66771301/146644386-39ae5b26-da79-4da5-af8c-d3142315ff77.png)
+  ![image](https://user-images.githubusercontent.com/66771301/146644394-040d49a1-4dfd-4323-9e17-aecc38dfef47.png)
