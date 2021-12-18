@@ -20,6 +20,7 @@ Database Creation:
   4. Fetch data : SELECT * FROM WHERE
 
 Screnshots Of The Project: 
+
   // Frontend of the website
   
   ![image](https://user-images.githubusercontent.com/66771301/146644386-39ae5b26-da79-4da5-af8c-d3142315ff77.png)
