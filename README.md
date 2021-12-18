@@ -21,8 +21,9 @@ Database Creation:
 
 Screnshots Of The Project: 
   // Frontend of the website
+  
   ![image](https://user-images.githubusercontent.com/66771301/146644386-39ae5b26-da79-4da5-af8c-d3142315ff77.png)
   
-  //Search Function
+  //Search Functionality
   
   ![image](https://user-images.githubusercontent.com/66771301/146644394-040d49a1-4dfd-4323-9e17-aecc38dfef47.png)
